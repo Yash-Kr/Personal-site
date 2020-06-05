@@ -192,3 +192,10 @@ background-color: #00909e;
 textarea{
 background-color: #c3edea;
 }
+
+@media (max-width:1000px) {
+.mountain{
+width:50%;
+}
+}
+
