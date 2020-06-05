@@ -193,13 +193,13 @@ textarea{
 background-color: #c3edea;
 }
 
-@media (max-width:1000px) {
+@media (max-width:700px) {
 .mountain{
 width:50%;
 }
 .bottom-cloud{
 position: relative;
-top:-120px;
+top:-100px;
 right:-200px;
 }
 	
